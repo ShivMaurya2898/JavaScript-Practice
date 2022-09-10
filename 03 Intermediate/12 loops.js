@@ -23,3 +23,21 @@ const myState = [
 // }
 
 
+// let i = 0;
+// while(i < myState.length){
+//     console.log(myState[i]);
+//     i++
+// }
+
+
+// let i = 0;
+// do{
+//     console.log(myState[i]);
+//     i++
+// }while(i < myState.length)
+
+let i = 20;
+do {
+    console.log(i);
+    i++;
+} while (i < 30);
